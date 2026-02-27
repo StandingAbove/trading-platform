@@ -1,0 +1,12 @@
+[submodule "data-engineering"]
+	path = data-engineering
+	url = https://github.com/Hawk-Center/data-engineering.git
+[submodule "hawk-backtester"]
+	path = hawk-backtester
+	url = https://github.com/Hawk-Center/hawk-backtester.git
+[submodule "ibgw"]
+	path = ibgw
+	url = https://github.com/Hawk-Center/ibgw.git
+[submodule "trading-engine"]
+	path = trading-engine
+	url = https://github.com/Hawk-Center/trading-engine.git
